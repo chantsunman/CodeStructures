@@ -1,0 +1,6 @@
+D:\Source\Repos\CodeStructures\CodeStructures.Design\obj\Debug\netcoreapp3.1\CodeStructures.Design.csproj.AssemblyReference.cache
+D:\Source\Repos\CodeStructures\CodeStructures.Design\obj\Debug\netcoreapp3.1\CodeStructures.Design.CodeStructures.Design.Common.Properties.Resources.resources
+D:\Source\Repos\CodeStructures\CodeStructures.Design\obj\Debug\netcoreapp3.1\CodeStructures.Design.csproj.GenerateResource.cache
+D:\Source\Repos\CodeStructures\CodeStructures.Design\obj\Debug\netcoreapp3.1\CodeStructures.Design.AssemblyInfoInputs.cache
+D:\Source\Repos\CodeStructures\CodeStructures.Design\obj\Debug\netcoreapp3.1\CodeStructures.Design.AssemblyInfo.cs
+D:\Source\Repos\CodeStructures\CodeStructures.Design\obj\Debug\netcoreapp3.1\CodeStructures.Design.csproj.CoreCompileInputs.cache

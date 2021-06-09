@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodeStructures.Design.Steel/1.0.0": {
+        "dependencies": {
+          "CodeStructures.Design.Common": "1.0.0"
+        },
+        "runtime": {
+          "CodeStructures.Design.Steel.dll": {}
+        }
+      },
+      "CodeStructures.Design.Common/1.0.0": {
+        "runtime": {
+          "CodeStructures.Design.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodeStructures.Design.Steel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodeStructures.Design.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

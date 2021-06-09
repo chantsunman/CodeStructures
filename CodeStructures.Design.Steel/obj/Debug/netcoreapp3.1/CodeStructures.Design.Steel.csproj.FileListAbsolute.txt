@@ -1,0 +1,12 @@
+D:\Source\Repos\CodeStructures\CodeStructures.Design\CodeStructures.Design.Steel\bin\Debug\netcoreapp3.1\CodeStructures.Design.Steel.deps.json
+D:\Source\Repos\CodeStructures\CodeStructures.Design\CodeStructures.Design.Steel\bin\Debug\netcoreapp3.1\CodeStructures.Design.Steel.dll
+D:\Source\Repos\CodeStructures\CodeStructures.Design\CodeStructures.Design.Steel\bin\Debug\netcoreapp3.1\CodeStructures.Design.Steel.pdb
+D:\Source\Repos\CodeStructures\CodeStructures.Design\CodeStructures.Design.Steel\obj\Debug\netcoreapp3.1\CodeStructures.Design.Steel.csproj.AssemblyReference.cache
+D:\Source\Repos\CodeStructures\CodeStructures.Design\CodeStructures.Design.Steel\obj\Debug\netcoreapp3.1\CodeStructures.Design.Steel.AssemblyInfoInputs.cache
+D:\Source\Repos\CodeStructures\CodeStructures.Design\CodeStructures.Design.Steel\obj\Debug\netcoreapp3.1\CodeStructures.Design.Steel.AssemblyInfo.cs
+D:\Source\Repos\CodeStructures\CodeStructures.Design\CodeStructures.Design.Steel\obj\Debug\netcoreapp3.1\CodeStructures.Design.Steel.csproj.CoreCompileInputs.cache
+D:\Source\Repos\CodeStructures\CodeStructures.Design\CodeStructures.Design.Steel\obj\Debug\netcoreapp3.1\CodeStructures.Design.Steel.dll
+D:\Source\Repos\CodeStructures\CodeStructures.Design\CodeStructures.Design.Steel\obj\Debug\netcoreapp3.1\CodeStructures.Design.Steel.pdb
+D:\Source\Repos\CodeStructures\CodeStructures.Design\CodeStructures.Design.Steel\bin\Debug\netcoreapp3.1\CodeStructures.Design.Common.dll
+D:\Source\Repos\CodeStructures\CodeStructures.Design\CodeStructures.Design.Steel\bin\Debug\netcoreapp3.1\CodeStructures.Design.Common.pdb
+D:\Source\Repos\CodeStructures\CodeStructures.Design\CodeStructures.Design.Steel\obj\Debug\netcoreapp3.1\CodeStructures.Design.Steel.csproj.CopyComplete
